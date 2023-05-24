@@ -24,6 +24,8 @@
 ***Relaciones:***
 
 Juego tiene una relacion de asociación con Dado, ya que existe un atributo llamado dado, el cual es un objeto de la clase Dado.
-Juego tiene una relación de dependencia con Calculadora, ya que inicializa un objeto Calculadora y utiliza un método de este último dentro del método que calcula el resultado.
+
+
+Juego tiene una relación de dependencia con Calculadora, ya que inicializa un objeto Calculadora dentro de un método de su clase y también utiliza un método de éste último.
 
 
